@@ -31,6 +31,13 @@ This is a basic To-Do List application built with HTML, CSS, and JavaScript. It 
 - You can modify the styles in `style.css` to personalize the appearance of the application.
 - Consider adding features like task editing, task completion marking, or local storage to persist tasks across sessions.
 
+## Snippets
+![td_1](https://github.com/user-attachments/assets/498b943a-5333-451e-9096-6a2abb510b3a)
+
+![td_2](https://github.com/user-attachments/assets/85d93742-6707-48f1-81ee-52e2bcb0ea67)
+
+![td_3](https://github.com/user-attachments/assets/06b08b5c-1d6a-4372-b0be-6cbbf37638b2)
+
 ## Author:
 
 Tanmay_Shinde/AlphaNOVA23
